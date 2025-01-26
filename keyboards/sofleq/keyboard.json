@@ -62,6 +62,9 @@
         "split_count": [36, 36],
         "sleep": true
     },
+    "dynamic_keymap": {
+        "layer_count": 6
+    },
     "layouts": {
         "LAYOUT": {
             "layout": [
